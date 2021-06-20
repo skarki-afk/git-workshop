@@ -22,3 +22,6 @@ In git, status command has an important role as
 ![git add filename](photos/)<br/>
 ![git add .](photos/)<br/>
 >This command is used whenever there is a change in the file. Without this command,commit command cannot be executed.
+
+
+This is main branch.
